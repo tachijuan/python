@@ -1,0 +1,35 @@
+ 1001  vi .gitconfig
+ 1002  vi .gitignore
+ 1006  git init help
+ 1010  git init
+ 1011  git remote add origin https://github.com/tachijuan/python.git
+ 1012  git commit "*.py"
+ 1013  git commit '*.py'
+ 1014  git commit *.py
+ 1015  git add '*.py'
+ 1016  git commit
+ 1017  git commit -m "Initial dump of files'\n"
+ 1018  git push -u origin master
+ 1019  git pull 
+ 1023  git add ina ine
+ 1024  git commit -m 'adding the source for the compare list'
+ 1044  git add fm.py
+ 1045  git commit -m 'added the first version of filemaker'
+ 1047  ssh -T git@github.com
+ 1048  git remote set-url git@github.com:tachijuan/python.git
+ 1051  git remote set-url origin git@github.com:tachijuan/python.git
+ 1052  git remote -v
+ 1059  git add parse_cta.py
+ 1060  git commit -u "Add EMC ATMOS CTA log parser"
+ 1062  git commit -m "Add EMC ATMOS CTA log parser"
+ 1064  git 
+ 1065  git config --global push.default matching
+ 1068  git commit -u "Fixed comments and removed id from compare"
+ 1070  git add comparetwolists.py
+ 1071  git commit -m "Fixed comments and removed id from compare"
+ 1072  git push
+ 1073* history | grep -i git
+ 1074* history -1 | grep -i git
+ 1076  history -100 |grep -i git
+ 1077  git pull
+ 1078  git pull origin master
