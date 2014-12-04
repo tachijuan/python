@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# a very simple ARGV example
 
 import sys
 
