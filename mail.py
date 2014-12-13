@@ -5,7 +5,7 @@ import RPi.GPIO as GPIO, feedparser, time
 DEBUG = 1
 
 USERNAME = "tachijuan"     # just the part before the @ sign, add yours here
-PASSWORD = "All4b0gs"     
+PASSWORD = ""     
 
 NEWMAIL_OFFSET = 1        # my unread messages never goes to zero, yours might
 MAIL_CHECK_FREQ = 60      # check mail every 60 seconds
